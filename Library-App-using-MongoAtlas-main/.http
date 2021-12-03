@@ -1,0 +1,8 @@
+POST  http://localhost:3001/add-new-student
+Content-Type: application/json
+
+{
+    "Name":"Pratyush",
+    "Book":"Hall of fame",
+    "Due":"21/7/2021"
+}
